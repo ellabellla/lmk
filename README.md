@@ -1,9 +1,7 @@
 # LMK (Lyn Mechanical Keyboard) WORK IN PROGRESS
 LMK is a "smart" mechanical keyboard built using a raspberry pi zero.
 
-This project is a work in progress. I had hoped I would get it done over uni holidays but it got away from me. Currently I have a working prototype keyboard that sends keystrokes, runs arbitrary code, moves the mouse using a joystick, and generally does keyboard stuff. 
-
-The case design needs to be improved. The hand wiring, although cheap and easy, is a lot messier and could be improved with a custom PCB. The software is very rough and needs better testing.
+This project is a work in progress. Currently I have a working prototype keyboard that sends keystrokes, runs arbitrary code, moves the mouse using a joystick, and generally does keyboard stuff. 
 
 ## Software
 LMKLib is a software suite that sets up a RPI Zero as a "smart" keyboard. It is made up of 3 major parts:
